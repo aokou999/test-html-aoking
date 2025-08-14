@@ -17,3 +17,12 @@ header-logo {
     font-size: 36px;
     padding: 20px 40px;
 }
+
+header-list li {
+    float:left;
+    padding: 33px 20px;
+}
+
+main {
+    padding: 100px 80px;
+}
