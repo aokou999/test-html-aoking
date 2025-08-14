@@ -12,17 +12,25 @@ li {
     height:90px;
 }
 
-header-logo {
+.header-logo {
     float: left;
     font-size: 36px;
     padding: 20px 40px;
 }
 
-header-list li {
+.header-list li {
     float:left;
     padding: 33px 20px;
 }
 
-main {
+.main {
     padding: 100px 80px;
+}
+
+.copy-container h1{
+    font-size: 140px;
+}
+
+.copy-container h2 {
+    font-size: 60px;
 }
